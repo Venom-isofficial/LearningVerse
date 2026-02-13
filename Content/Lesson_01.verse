@@ -16,3 +16,5 @@ Lesson_01 := class(creative_device):
         Print("hiiiii")
         Print("whtsup")
         Print("here e Replace ")
+        Print("here egggggggggggggg Replace ")
+        
