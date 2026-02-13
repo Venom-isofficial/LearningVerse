@@ -14,3 +14,4 @@ Lesson_01 := class(creative_device):
         Print("Hello, world!")
         Print("2 + 2 = {2 + 10}")
         Print("hiiiii")
+        Print("whtsup")
