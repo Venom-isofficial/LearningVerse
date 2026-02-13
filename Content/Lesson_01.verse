@@ -12,4 +12,5 @@ Lesson_01 := class(creative_device):
     OnBegin<override>()<suspends>:void=
         # TODO: Replace this with your code
         Print("Hello, world!")
-        Print("2 + 2 = {2 + 2}")
+        Print("2 + 2 = {2 + 10}")
+        Print("hiiiii")
